@@ -1,5 +1,5 @@
 CREATE TABLE dbo.students
 (
-    sid INT,
+    student_id INT,
     name VARCHAR(100)
 );
