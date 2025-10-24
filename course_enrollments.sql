@@ -1,6 +1,7 @@
 CREATE TABLE dbo.course_enrollments
 (
-    eid INT,
-    cid INT,
-    sid INT
+    enrollment_id INT,
+    course_id INT,
+    student_id INT
 );
+
