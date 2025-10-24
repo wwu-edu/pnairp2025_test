@@ -1,5 +1,5 @@
 CREATE TABLE dbo.courses
 (
-    cid INT,
+    course_id INT,
     title VARCHAR(100)
 );
