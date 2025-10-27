@@ -1,0 +1,5 @@
+enrollment_id,student_id,course_id,name,title
+1,123,111,Andy,Git Workshop
+2,456,111,Beth,Git Workshop
+3,123,222,Andy,IPEDS 101
+4,456,333,Beth,State and Federal Reporting For Dummies
