@@ -1,1 +1,1 @@
-SELECT 'Hi Adm'
+SELECT 'Hi Adm, Test 3'
