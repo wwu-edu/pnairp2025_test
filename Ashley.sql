@@ -1,1 +1,1 @@
-SELECT 'Ashley is cool'
+SELECT 'Ashley'
