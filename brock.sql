@@ -1,1 +1,1 @@
-Select 'hi brock' from dual =)
+Select 'hi brock, Git is fun' from dual =)
