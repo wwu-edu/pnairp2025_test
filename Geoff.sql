@@ -1,2 +1,2 @@
 SELECT
-	"Hi Geoff
+	'Hi Geoff'
